@@ -1,0 +1,125 @@
+shelf
+flaky
+plucky
+circle
+passenger
+square
+day
+dashing
+mixed
+dead
+industrious
+cakes
+ashamed
+sofa
+quiet
+person
+knee
+desk
+eminent
+stranger
+bashful
+equable
+longing
+married
+race
+self
+zip
+frame
+duck
+chin
+men
+bubble
+squirrel
+taste
+assorted
+dependent
+normal
+soft
+continue
+sturdy
+clear
+jump
+crazy
+temper
+noxious
+far-flung
+liquid
+tightfisted
+injure
+birthday
+earth
+grip
+horrible
+cagey
+distinct
+disastrous
+omniscient
+cherry
+soak
+murky
+voiceless
+perpetual
+bright
+develop
+arrest
+long-term
+hum
+march
+pipe
+turkey
+use
+barbarous
+expect
+daily
+please
+wooden
+chemical
+disillusioned
+land
+weary
+bustling
+innocent
+hat
+butter
+shrill
+crate
+concerned
+flavor
+word
+bury
+queue
+depressed
+rightful
+property
+foot
+spare
+proud
+request
+eatable
+rail
+creative
+the creative department
+the creative team
+design
+the design department
+the design team
+tech
+the tech department
+the tech team
+technology
+the technology department
+the technology team
+ux
+the ux department
+the ux team
+user experience
+the user experience department
+the user experience team
+planning
+the planning department
+the planning team
+studio
+the studio
+yes 
+no

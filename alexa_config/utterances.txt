@@ -1,0 +1,3 @@
+YesIntent {yes_message}
+NoIntent {no_message}
+MessageIntent {message}

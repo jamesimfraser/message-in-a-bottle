@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "intent": "MessageIntent",
+      "slots": [
+        {
+          "name": "message",
+          "type": "LITERAL_TEXT"
+        }
+      ]
+    }, {
+      "intent": "YesIntent",
+      "slots": [
+        {
+          "name": "yes_message",
+          "type": "YES_RESPONSES"
+        }
+      ]
+    }, {
+      "intent": "NoIntent",
+      "slots": [
+        {
+          "name": "no_message",
+          "type": "NO_RESPONSES"
+        }
+      ]
+    }
+  ]
+}
